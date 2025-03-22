@@ -15,8 +15,8 @@ Administrative privileges to run the tool
 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Dump3r.git
-cd Dump3r
+git clone https://github.com/Raulisr00t/DUMPER.git
+cd DUMPER
 ```
 Open Project in Visual Studio
 Open DUMPER.sln.sln in Visual Studio.
